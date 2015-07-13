@@ -25,5 +25,5 @@ public class Decipherability {
         
         return (N == K || min > K) ? "Certain" : "Uncertain"; 
     }
-<%:testing-code%>
+
 }
